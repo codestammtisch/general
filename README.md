@@ -1,2 +1,3 @@
-# general
-Hier findet sich eine Sammlung von Themen die nicht spezifisch auf Getränke oder CST Folgen sind.
+# Allgemeines
+
+Dieses Repository ist ein Sammelsurium für alles, was kein Getränk oder keine Folge vom Codestammtisch ist.
